@@ -1,4 +1,4 @@
-# Dice Recognition and Counting Tool
+# Dice Face Recognition
 
 The overall goal of this project is to develop a tool that can automatically recognize and count the values of dice based on photos of six-sided dice. We will achieve this by building a machine-learning model.
 
